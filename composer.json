@@ -1,0 +1,17 @@
+{
+    "name": "benbyron/create-password",
+    "autoload": {
+        "psr-4": {
+            "BenByron\\Command\\": "Command/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ben Schöffmann",
+            "email": "benedikt.schoeffmann@gmail.com"
+        }
+    ],
+    "require": {
+        "minicli/minicli": "^4.2"
+    }
+}
